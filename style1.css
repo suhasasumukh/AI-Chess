@@ -1,0 +1,34 @@
+
+.first {
+    background-color: black;
+    height: 40px;
+    width: 40px;
+
+}
+
+.second {
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    margin: 0 0 0 40px;
+}
+
+.pop {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.boxi {
+    border: 10px solid;
+    width: 320px;
+}
+
+.MAIN {
+    display: flex;
+
+}
+
+.instruct {
+    margin: 10px;
+}
