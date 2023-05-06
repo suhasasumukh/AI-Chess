@@ -20,7 +20,9 @@
 Suhas Sumukh
 
 ## :star2: About the Project
-<a href="#"><img src=https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg alt="Javascript" width="30" /></a>
+<a href="#">Made with Javascript<img src=https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg alt="Javascript" width="30" /></a>
+
+- It utilizes advanced algorithms and machine learning techniques to make intelligent moves and learn from its gameplay. With its high level of precision and strategic thinking,
 
 
 
@@ -54,5 +56,5 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 ## :handshake: Contact
 
-Suhas Sumukh - [@twitter_handle](https://twitter.com/SuhasSumukh) - suhasasumukh@gmail.com
+Suhas Sumukh - [@SuhasSumukh](https://twitter.com/SuhasSumukh) - suhasasumukh@gmail.com
 Project Link: [https://github.com/suhasumukh/AI-Chess](https://github.com/suhasumukh/AI-Chess)
