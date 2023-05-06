@@ -24,7 +24,7 @@ Suhas Sumukh
 
 - Works on Algorithms and Search techniques
 
-- It utilizes advanced algorithms and machine learning techniques to make intelligent moves and learn from its gameplay. With its high level of precision and strategic thinking,
+- It utilizes advanced algorithms and machine learning techniques to make intelligent moves and learn from its gameplay. It has high level of precision and strategic thinking.
 
 
 
