@@ -42,7 +42,8 @@ Download the repository, Extract the zip file, Open MainAI folder and run index.
 ## :grey_question: FAQ
 
 - Can the AI chess program beat a human player?
-- Yes, the AI chess program is designed to be highly competitive and can beat even the most skilled human players. However, it is important to note that the program is not infallible and can be defeated with the right strategy and tactics. Additionally, the program can be customized to different skill levels, making it suitable for both beginner and advanced players
+- Yes, the AI chess program is designed to be highly competitive and can beat even the most skilled human players. However, it is important to note that the program is not infallible and can be defeated with the right strategy and tactics.
+
 - How does the AI chess program work?
 - The AI chess program uses advanced algorithms and machine learning techniques to analyze millions of potential moves and determine the best possible move to make in a given situation. It uses a combination of heuristics and deep neural networks to predict the outcomes of different moves and determine the most optimal strategy for winning the game.
 
