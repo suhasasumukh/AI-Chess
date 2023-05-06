@@ -3,7 +3,7 @@
 
 <div align='center'>
 
-<p>This AI chess program is designed to challenge and improve your skills in the game of chess. With advanced algorithms and machine learning techniques, the program is able to analyze your moves and predict your opponent's next move, allowing you to strategize accordingly. The program provides various difficulty levels and game modes, from casual to competitive, to suit players of all skill levels. Whether you're a beginner or an experienced chess player, this program offers a challenging and engaging experience.</p>
+<p>This AI chess program is designed to challenge and improve your skills in the game of chess. With advanced algorithms and machine learning techniques, the program is able to analyze your moves and predict your next move, allowing you to strategize accordingly. The program provides various difficulty levels and game modes, from casual to competitive, to suit players of all skill levels. Whether you're a beginner or an experienced chess player, this program offers a challenging and engaging experience.</p>
 
 <img src="https://img.shields.io/badge/Maintained-Yes-indigo" />
 <img src=https://img.shields.io/github/last-commit/Suhasumukh/AI-Chess />
