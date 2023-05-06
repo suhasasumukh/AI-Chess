@@ -20,7 +20,9 @@
 Suhas Sumukh
 
 ## :star2: About the Project
-<a href="#">Made with Javascript<img src=https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg alt="Javascript" width="30" /></a>
+<a href="#"><img src=https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg alt="Javascript" width="30" /></a>
+
+- Works on Algorithms and Search techniques
 
 - It utilizes advanced algorithms and machine learning techniques to make intelligent moves and learn from its gameplay. With its high level of precision and strategic thinking,
 
