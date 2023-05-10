@@ -6,8 +6,8 @@
 <p>This AI chess program is designed to challenge your skills in the game of chess. With advanced algorithms and machine learning techniques, the program is able to analyze your moves and predict your next move, allowing you to strategize accordingly. The program is made for all type, whether you're a beginner or an experienced chess player, this program offers a challenging and engaging experience.</p>
 
 <img src="https://img.shields.io/badge/Maintained-Yes-indigo" />
-<img src=https://img.shields.io/github/last-commit/Suhasumukh/AI-Chess />
-<h4> <span> · </span> <a href="https://github.com/Suhasumukh/AI-Chess/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Suhasumukh/AI-Chess/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Suhasumukh/AI-Chess/issues"> Request Feature </a> </h4>
+<img src=https://img.shields.io/github/last-commit/suhasasumukh/AI-Chess />
+<h4> <span> · </span> <a href="https://github.com/suhasasumukh/AI-Chess/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/suhasasumukh/AI-Chess/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/suhasasumukh/AI-Chess/issues"> Request Feature </a> </h4>
 
 
 </div>
@@ -58,5 +58,5 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 ## :handshake: Contact
 
-Suhas Sumukh - [@SuhasSumukh](https://twitter.com/SuhasSumukh) - suhasasumukh@gmail.com
-Project Link: [https://github.com/suhasumukh/AI-Chess](https://github.com/suhasumukh/AI-Chess)
+Suhas Sumukh - [@suhasasumukh](https://twitter.com/suhasasumukh) - suhasasumukh@gmail.com
+Project Link: [https://github.com/suhasumukh/AI-Chess](https://github.com/suhasasumukh/AI-Chess)
