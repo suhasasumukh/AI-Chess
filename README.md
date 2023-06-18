@@ -59,5 +59,5 @@ Distributed under the no License. See LICENSE.txt for more information.
 ## :handshake: Contact
 
 Suhas Sumukh - [@suhasasumukh](https://twitter.com/suhasasumukh) - suhasasumukh@gmail.com
-Project Link: [https://github.com/suhasasumukh/AI-Chess](https://github.com/suhasasumukh/AI-Chess)
-Twitter: - [https://twitter.com/suhasasumukh](https://twitter.com/suhasasumukh)
+Project Link: [suhasasumukh/AI-Chess](https://github.com/suhasasumukh/AI-Chess)
+Twitter: - [suhasasumukh](https://twitter.com/suhasasumukh)
