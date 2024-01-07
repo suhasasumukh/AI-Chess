@@ -52,7 +52,6 @@ style="border:1px solid #000000"></canvas>
 <br>
 <p id="para"></p>
 <script>
-// Variables globals.
 var canvas = document.getElementById ('myCanvas'),
 c = canvas.getContext ('2d'),
 n = 1000,
@@ -77,11 +76,8 @@ phiimag = [],
 phi = [];
 calculs();
 var cosarara;
-// a partir d'aqui el programa es controla amb
-// els botons definits a dalt...
 document.getElementById('stop').disabled = true;
 document.getElementById('from').disabled = true;
-// Funcions.
 function calculs() {
 var i;
 time = 0;
@@ -97,9 +93,7 @@ function escriu(x) {
 document.getElementById('para').innerHTML += x + '<br>';
 }
 function refresh() {
-// esborrem i dibuixem les parets del pou i la barrera...
 c.clearRect(0,0,canvas.width,canvas.height);
-// si V=0, 350, si V=1000, 100,
 c.beginPath();
 c.moveTo(100,150);
 c.lineTo(100,350);
@@ -165,7 +159,6 @@ c.lineTo(pixelx,pixely);
 c.strokeStyle = color;
 c.stroke();
 }
-// Equacions transcendentals.
 function funder1(E) {
 if (V >= 0) {
 return Math.sqrt(V - E)*Math.sin((L/2 - d)*Math.sqrt(E))*
@@ -196,10 +189,7 @@ return Math.sqrt(E - V)*Math.sin((L/2 - d)*Math.sqrt(E))*
 Math.sin(d*Math.sqrt(E - V)) - Math.sqrt(E)*
 Math.cos((L/2 - d)*Math.sqrt(E))*Math.cos(d*Math.sqrt(E - V));
 }
-// Bolzano.
 function bolzano(f,a,b) {
-// bolzano es crida quan f(a)*f(b) < 0 i es vol c a (a,b) tal
-// que f(c) = 0
 var itera = a,
 iterb = b,
 c = itera + (iterb - itera)/2;
@@ -214,14 +204,7 @@ c = itera + (iterb - itera)/2;
 }
 return c;
 }
-// Funcions d'energies.
 function energiesunder(f,llista) {
-// donades funder1 o funder2 sota el nom de f, es troben totes
-// les energies per sota de V corresponents i es desen a
-// l'array llista
-// buscant els zeros dels cosinus, trobem intervals on aplicar
-// bolzano i trobar les interseccions entre les dues parts de
-// les equacions transcendentals
 var k = 1,
 Eold,
 E,
@@ -271,9 +254,6 @@ llista.push(E);
 }
 }
 function energiesover(f,Nmax,llista) {
-// donades fover1 o fover2 sota el nom de f, es troben les
-// Nmax energies per damunt de V corresponents i es desen a
-// l'array llista
 var Eold,
 E,
 Enew,
@@ -296,8 +276,6 @@ Enew = Eold + 4*TOL;
 while (f(E)*f(Enew) > 0) {
 E = Enew;
 Enew = 2*E - Eold;
-// per tal i com son les funcions, sabem que no ens
-// passarem de llarg fent Enew = E + (E - Eold)...
 }
 if (Math.abs(f(E)) < TOL) {
 llista.push(E);
@@ -311,12 +289,9 @@ llista.push(E);
 compta++;
 }
 Enew = 2*E - Eold;
-// per l'aspecte que tenen les funcions, aquesta es una
-// bona aproximacio al seguent zero...
 Eold = Enew;
 }
 }
-// Funcions d'ona.
 function phunder1(E,llista) {
 var x,
 suma = 0,
@@ -516,7 +491,6 @@ llista.push(N*Math.exp(- Math.pow(x -
 mu,2)/Math.pow(2*sigma,2)));
 }
 }
-// Coeficients.
 function inicial(E,re,im) {
 var i,
 x,
